@@ -107,7 +107,7 @@ var chatClient = (function() {
 			}
 		}
 	}
-})();
+})(); 
 
 $(document).ready(function() {
 	chatClient.init();
